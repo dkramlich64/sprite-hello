@@ -1,0 +1,17 @@
+{
+    "QE7Vn6B2E62Vg4LXO_Lr": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAMDMzMwAAADAzMzMzMwAAMzMzMzMzAwAzMzMzMz8DMPMzMzMz8zMw8zgzMzMzPzAzPzMzMzM/MDMzM/8zMz8wMz8z8zMzPzDzODMzMzM/MPMzMzMz8zMAMzMzMzM/AwAzMzMzMzMDADAzMzMzMwAAADAzMzMAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "smiley"
+    },
+    "": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAREREBAAAAEREREREBABAREREREREAED0RERERE8ARG9ERET0RAT0RERERE9EBERERPRET0QERERE9ERPRAT0RERERE9EBERvRERE9EQERPRERERETwRAREREREREAEBEREREREQAAEREREREBAAAAERERAQAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "frowny"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}

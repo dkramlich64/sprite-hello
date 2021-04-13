@@ -1,0 +1,10 @@
+let msg = "Why so sad?"
+let smiley = sprites.create(assets.image`smiley`, SpriteKind.Player)
+let frowny = sprites.create(assets.image`frowny`, SpriteKind.Player)
+smiley.setPosition(22, 38)
+frowny.setPosition(116, 46)
+scene.setBackgroundColor(10)
+console.log("Hello console")
+smiley.say(msg, 2000)
+pause(2000)
+frowny.say("Why so happy?", 2000)
